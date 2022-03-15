@@ -4,7 +4,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![ScreenShot](/images/screenshot.jpgscreenshot.jpg)
+![ScreenShot](/images/screenshot.jpg)
 
 
 ### Built with
